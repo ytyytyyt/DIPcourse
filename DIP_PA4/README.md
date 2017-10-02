@@ -1,3 +1,3 @@
 # Programming Assignment #4
 
-This programming assignment consists of image restoration, colour image processing and image compression with wavelets.
+This programming assignment involves image restoration, colour image processing and multi-scale wavelet-based image compression tasks.
